@@ -5,3 +5,10 @@ function showName(neww){
 }
 
 showName("chhagan ")
+
+
+function newName(run){
+    console.log("my name is",run)
+}
+newName("rushabh")
+/// bhbdhbdbhbfhbdhf
