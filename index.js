@@ -1,7 +1,7 @@
 const name = " chhagan"
 
-function showName(new){
-    console.log("hellow",new)
+function showName(neww){
+    console.log("hellow",neww)
 }
 
 showName("chhagan ")
